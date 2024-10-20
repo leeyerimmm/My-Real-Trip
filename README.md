@@ -25,7 +25,7 @@
 <br><br>  
 
 
-## 5. Tech Stack (기술 스택)
+## 3. Tech Stack (기술 스택)
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
