@@ -1,4 +1,4 @@
-# My Real Trip 🌱
+# My Real Trip ✈️
 마이리얼트립 웹 사이트 
 
 
