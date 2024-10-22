@@ -48,7 +48,7 @@ http://43.202.84.31/
 
 | 기능              | 설명                                                                 | 이미지 |
 |-------------------|----------------------------------------------------------------------|--------|
-| 로고 클릭 시 상단 이동 | 로고 버튼을 클릭하면 페이지 상단으로 이동합니다.                         | ![로고 이동](https://github.com/your-repo-path/gitimages/logo.gif) |
-| 이미지 슬라이드 확대  | 이미지 슬라이드를 통해 사용자가 여러 목록을 볼 수 있고, 이미지가 자동으로 슬라이드되며 사용자에게 다양한 콘텐츠를 순차적으로 제공합니다.        | ![이미지 슬라이드](https://github.com/your-repo-path/gitimages/silde_1.gif) |
-| 영어 버전 지원     | 사용자는 사이트의 영어 버전으로 전환할 수 있습니다.                                      | ![영어 버전](https://github.com/your-repo-path/gitimages/english_1.gif) |
-| 상단 이동 버튼     | 페이지 하단의 'TOP' 버튼을 통해 상단으로 이동할 수 있습니다.                              | ![상단 이동](https://github.com/your-repo-path/gitimages/top.gif) |
+| 로고 클릭 시 상단 이동 | 로고 버튼을 클릭하면 페이지 상단으로 이동합니다.                         | ![로고 이동](https://github.com/My-Real-Trip/gitimages/logo.gif) |
+| 이미지 슬라이드 확대  | 이미지 슬라이드를 통해 사용자가 여러 목록을 볼 수 있고, 이미지가 자동으로 슬라이드되며 사용자에게 다양한 콘텐츠를 순차적으로 제공합니다.        | ![이미지 슬라이드](https://github.com/My-Real-Trip/gitimages/silde_1.gif) |
+| 영어 버전 지원     | 사용자는 사이트의 영어 버전으로 전환할 수 있습니다.                                      | ![영어 버전](https://github.com/My-Real-Trip/gitimages/english_1.gif) |
+| 상단 이동 버튼     | 페이지 하단의 'TOP' 버튼을 통해 상단으로 이동할 수 있습니다.                              | ![상단 이동](https://github.com/My-Real-Trip/gitimages/top.gif) |
